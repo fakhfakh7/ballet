@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ballet/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ballet/static/js/main.05f50948.chunk.js",
-    "main.js.map": "/ballet/static/js/main.05f50948.chunk.js.map",
+    "main.js": "/ballet/static/js/main.befbde84.chunk.js",
+    "main.js.map": "/ballet/static/js/main.befbde84.chunk.js.map",
     "runtime-main.js": "/ballet/static/js/runtime-main.736732e1.js",
     "runtime-main.js.map": "/ballet/static/js/runtime-main.736732e1.js.map",
     "static/js/2.6894c006.chunk.js": "/ballet/static/js/2.6894c006.chunk.js",
@@ -14,12 +14,21 @@
     "static/js/2.6894c006.chunk.js.LICENSE.txt": "/ballet/static/js/2.6894c006.chunk.js.LICENSE.txt",
     "static/media/Balletmp4.2634c8c6.mp4": "/ballet/static/media/Balletmp4.2634c8c6.mp4",
     "static/media/Dance.c7a0a00b.mp4": "/ballet/static/media/Dance.c7a0a00b.mp4",
-    "static/media/tamara.0ea2416c.mp4": "/ballet/static/media/tamara.0ea2416c.mp4"
+    "static/media/artist1.3d68604e.jpg": "/ballet/static/media/artist1.3d68604e.jpg",
+    "static/media/artist2.7f28c039.jpg": "/ballet/static/media/artist2.7f28c039.jpg",
+    "static/media/artist3.dfffa978.jpg": "/ballet/static/media/artist3.dfffa978.jpg",
+    "static/media/avance.d5aba43a.jpg": "/ballet/static/media/avance.d5aba43a.jpg",
+    "static/media/ballet1.9d81d645.jpg": "/ballet/static/media/ballet1.9d81d645.jpg",
+    "static/media/debutant.2f2e1d8f.jpg": "/ballet/static/media/debutant.2f2e1d8f.jpg",
+    "static/media/logo2.aee19a50.png": "/ballet/static/media/logo2.aee19a50.png",
+    "static/media/moyenne.e861848c.jpg": "/ballet/static/media/moyenne.e861848c.jpg",
+    "static/media/tamara.0ea2416c.mp4": "/ballet/static/media/tamara.0ea2416c.mp4",
+    "static/media/yos.f44e7b1e.png": "/ballet/static/media/yos.f44e7b1e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.736732e1.js",
     "static/js/2.6894c006.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.05f50948.chunk.js"
+    "static/js/main.befbde84.chunk.js"
   ]
 }
