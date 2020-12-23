@@ -4,12 +4,13 @@ import Ballet from "../Vedio/tamara.mp4";
 import Grid from '@material-ui/core/Grid';
 import Information from '../static/InfoDanse';
 import CardDanceur from './CardDanceur';
+import yoss from '../img/yos.png';
 
 
 const useStyles = makeStyles((theme) => ({
     root: {
         minHeight: '100vh',
-        backgroundImage: `url(${process.env.PUBLIC_URL + '/images/yos.png'})`,
+        backgroundImage: "url("+ yoss+")",
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         width: '100%',

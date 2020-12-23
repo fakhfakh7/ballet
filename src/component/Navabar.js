@@ -9,6 +9,7 @@ import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import Ecole from './Ecole';
 import Danceur from './Danceur';
 import Home from './Home';
+import logo from '../img/logo2.png';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -57,7 +58,7 @@ function Navabar({ activeOnlyWhenExact }) {
 
         <AppBar position="static" className={classes.Colore}>
           <Toolbar>
-            <Avatar alt="logo" src="../../images/logo2.png" className={classes.large} />
+            <Avatar alt="logo" src={logo} className={classes.large} />
             <Typography variant="h5" className={classes.Text} >
               Ballet YAS<br></br>
               <span className={classes.colorText}>Secret De Bonheur</span>

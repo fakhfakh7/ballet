@@ -4,6 +4,8 @@ import Cardecole from './Cardecole';
 import Information from '../static/InforEco';
 import Ballet from "../Vedio/Dance.mp4";
 import Grid from '@material-ui/core/Grid';
+import backg from '../img/ballet1.jpg';
+
 
 
 
@@ -12,7 +14,7 @@ import Grid from '@material-ui/core/Grid';
 const useStyles = makeStyles((theme) => ({
     root: {
         minHeight: '100vh',
-        backgroundImage: `url(${process.env.PUBLIC_URL + '/images/ballet1.jpg'})`,
+        backgroundImage: "url("+ backg+")",
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         width: '100%',
