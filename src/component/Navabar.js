@@ -65,7 +65,7 @@ function Navabar({ activeOnlyWhenExact }) {
 
             </Typography>
             <Typography className={classes.title}>
-              <Link to='/' className={classes.Link}>
+              <Link to='/' className={classes.Link} component="{Home}"> 
                 <Button color="inherit">Home</Button>
               </Link>
               <Link to='/Ecole' className={classes.Link}>
