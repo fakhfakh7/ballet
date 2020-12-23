@@ -65,7 +65,7 @@ function Navabar({ activeOnlyWhenExact }) {
 
             </Typography>
             <Typography className={classes.title}>
-              <Link to='/' className={classes.Link}>
+              <Link to='/Home' className={classes.Link}>
                 <Button color="inherit">Home</Button>
               </Link>
               <Link to='/Ecole' className={classes.Link}>
@@ -79,7 +79,7 @@ function Navabar({ activeOnlyWhenExact }) {
         </AppBar>
 
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/Home">
             <Home></Home>
           </Route>
           <Route exact path="/Ecole">
